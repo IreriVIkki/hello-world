@@ -1,0 +1,7 @@
+AJAX = Asynchronous JavaScript and XML.
+
+In short; AJAX is about loading data in the background and display it on the webpage, without reloading the whole page.
+
+Examples of applications using AJAX: Gmail, Google Maps, Youtube, and Facebook tabs.
+
+You can learn more about AJAX in our AJAX tutorial.
